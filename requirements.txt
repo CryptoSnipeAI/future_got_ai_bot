@@ -1,0 +1,7 @@
+pybit
+pandas
+numpy
+ta
+requests
+pyyaml
+apscheduler
